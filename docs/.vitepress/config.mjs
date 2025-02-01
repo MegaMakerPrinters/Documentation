@@ -23,7 +23,7 @@ export default defineConfig({
           {text: 'Produkten', 
             items: [
             {text: 'Specifikationer', link: '/sv/product/specifications.md' },
-            {text: 'Test', link: '/sv/product/test.md' }
+            {text: 'Reservdelar', link: 'https://www.google.com/' }
           ]},
           { text: 'FAQ', link: '/sv/resources-support/faq.md'},
           { text: 'Kontakt', link: '/sv/contact.md'}
@@ -33,7 +33,6 @@ export default defineConfig({
             text: 'Komma igång',
             items: [
               { text: 'Introduktion', link: '/sv/getting-started/introduction.md' },
-              { text: 'Unboxing och installation', link: '/sv/getting-started/unboxing.md' },
               { text: 'Första utskriften', link: '/sv/getting-started/first-print.md' },
               {text: 'Material och filament', link: '/sv/getting-started/materials.md'}
             ]
@@ -44,15 +43,15 @@ export default defineConfig({
               { text: 'Montering', link: '/sv/hardware-setup/assembly.md' },
               { text: 'Justering av skrivbädden', link: '/sv/hardware-setup/bed-leveling.md' },
               { text: 'Installera filament', link: '/sv/hardware-setup/filament-loading.md' },
-              { text: 'Anslutning till dator och nätverk', link: '/sv/hardware-setup/connection.md' }
             ]
           },
           {
             text: 'Programvara och konfiguration',
             items: [
+              { text: 'Anslutning till nätverk', link: '/sv/software-config/connection.md' },
+              { text: 'Användning av USB-minne', link: '/sv/software-config/usb-print.md'},
               { text: 'Konfigurera skrivarinställningar', link: '/sv/software-config/configuration.md' },
               { text: 'Slicer-programvara', link: '/sv/software-config/slicer-guide.md' },
-              { text: 'Förstå G-code och skivningsparametrar', link: '/sv/software-config/gcode.md' },
               { text: 'Fjärrstyrd utskrift och övervakning', link: '/sv/software-config/remote.md' }
             ]
           },
@@ -61,6 +60,7 @@ export default defineConfig({
             items: [
               { text: 'Felsökning', link: '/sv/resources-support/troubleshooting.md' },
               { text: 'Felkoder', link: '/sv/resources-support/error_codes.md' },
+              { text: 'Förstå G-code och skivningsparametrar', link: '/sv/resources-support/gcode.md' },
               {text: 'Underhåll och skötsel', link: '/sv/resources-support/maintenace.md'},
               { text: 'Forum och användarstöd', link: '/sv/resources-support/forum.md' },
               { text: 'Garanti och reparationer', link: '/sv/resources-support/warranty-repairs.md' },

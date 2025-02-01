@@ -1,4 +1,4 @@
-# Anslutning till dator eller nätverk
+# Anslutning till nätverk
 
 ## Koppla printern till nätverket
 1. När printern startar för första gången kommer den starta en åtkomstpunkt som heter **Megamaker**. 
