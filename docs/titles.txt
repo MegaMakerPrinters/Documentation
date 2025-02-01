@@ -1,0 +1,82 @@
+________
+Engelska
+__________________________________________________
+Getting Started
+    Introduction to the MegaMaker 3D Printer
+    Unboxing and Setup Guide
+    First Print Walkthrough
+Hardware Setup
+    Assembling the MegaMaker Printer
+    Leveling the Print Bed
+    Installing the Filament Spool
+    Connecting to Your Computer or Network
+Software and Configuration
+    Installing the MegaMaker Software
+    Configuring Printer Settings
+    Slicer Software
+    Understanding G-code and Slicing Parameters
+    Remote Printing and Monitoring
+Materials and Filaments
+    Supported Filament Types
+    How to Load and Unload Filament
+    Storing Filament Properly
+    Tips for Printing with PLA, ABS, and PETG
+Maintenance and Care
+    Routine Maintenance Checklist
+    Cleaning the Nozzle and Print Bed
+    Replacing the Print Head
+    Updating Firmware
+Troubleshooting
+    Fixing Warping and Layer Adhesion Issues
+    Resolving Extruder Problems
+    Diagnosing Print Bed Calibration Errors
+    Interpreting Error Codes
+Resources and Support
+    Community Forums and Support
+    Warranty and Repairs
+    Frequently Asked Questions (FAQs)
+Safety and Best Practices
+    Safety Guidelines for MegaMaker
+    Using the Printer in a Proper Environment
+    Handling Heated Components
+_________________________________________________________
+
+Svenska
+__________________________________________________
+Komma igång
+    Introduktion till MegaMaker 3D-skrivaren
+    Unboxing och installationsguide
+    Första utskriften – steg-för-steg
+Maskinvaruinstallation
+    Montering av MegaMaker-skrivaren
+    Justering av skrivbädden
+    Installera filamentrullen
+    Anslutning till dator eller nätverk
+Programvara och konfiguration
+    Konfigurera skrivarinställningar
+    Slicer-programvara
+    Förstå G-code och skivningsparametrar
+    Fjärrstyrd utskrift och övervakning
+Material och filament
+    Filamenttyper som stöds
+    Hur du laddar och lossar filament
+    Så här förvarar du filament på rätt sätt
+    Tips för utskrift med PLA, ABS och PETG
+Underhåll och skötsel
+    Checklista för rutinmässigt underhåll
+    Rengöring av munstycke och skrivbädd
+    Byta ut skrivhuvudet
+    Uppdatera firmware
+Felsökning
+    Lösa problem med warping och lageradhesion
+    Åtgärda problem med extrudern
+    Felsöka problem med bäddkalibrering
+    Tolka felkoder
+Resurser och support
+    Forum och användarstöd
+    Garanti och reparationer
+    Vanliga frågor (FAQ)
+Säkerhet och bästa praxis
+    Säkerhetsriktlinjer för MegaMaker
+    Använda skrivaren i rätt miljö
+    Hantera uppvärmda komponenter

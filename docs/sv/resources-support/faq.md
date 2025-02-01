@@ -1,0 +1,1 @@
+# Vanliga frågor (FAQ)
