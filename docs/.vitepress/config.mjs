@@ -60,7 +60,7 @@ export default defineConfig({
             items: [
               { text: 'Felsökning', link: '/sv/resources-support/troubleshooting.md' },
               { text: 'Felkoder', link: '/sv/resources-support/error_codes.md' },
-              { text: 'Förstå G-code och skivningsparametrar', link: '/sv/resources-support/gcode.md' },
+              { text: 'Förstå G-code och skrivningsparametrar', link: '/sv/resources-support/gcode.md' },
               {text: 'Underhåll och skötsel', link: '/sv/resources-support/maintenace.md'},
               { text: 'Forum och användarstöd', link: '/sv/resources-support/forum.md' },
               { text: 'Garanti och reparationer', link: '/sv/resources-support/warranty-repairs.md' },
