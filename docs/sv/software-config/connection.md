@@ -1,6 +1,5 @@
 # Anslutning till nätverk
 
-## Koppla printern till nätverket
 1. När printern startar för första gången kommer den starta en åtkomstpunkt som heter **Megamaker**. 
 
 2. Anslut till **"Megamaker"**-åtkomstpunkten med en annan enhet som har WiFi åtkomst.
@@ -13,4 +12,4 @@
 
 6. Nu kommer din Raspberry Pi att ansluta till den angivna åtkomstpunkten och stänga ner åtkomstpunkten när den är ansluten.  
    
-Om printern förlorar åtkomsten till WiFi-nätverket eller om den inte kan ansluta till nätverket, kommer printern starta **MegaMaker**-åtkomstpunkten igen.
+Om printern förlorar åtkomsten till WiFi-nätverket eller om den inte kan ansluta till nätverket, kommer printern starta **MegaMaker**-åtkomstpunkten och man får göra om stegen igen.

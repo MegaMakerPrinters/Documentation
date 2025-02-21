@@ -1,1 +1,1 @@
-# Förstå G-code och skivningsparametrar
+# Förstå G-code och skrivningsparametrar

@@ -1,11 +1,7 @@
 # Material och filament 
 
 ## Filamenttyper som stöds
-
-
-## Så här förvarar du filament på rätt sätt
-
-## Tips för utskrift med olika material
+MegaMaker skrivaren stödjer flera olika filamenttyper
 
 ### Utskrift med PLA
 
@@ -13,3 +9,6 @@
 
 ### Utskrift med PETG
 
+## Så här förvarar du filament på rätt sätt
+
+## Tips för utskrift med olika material

@@ -15,8 +15,8 @@ För att installera filamentrullen, följ dessa [anvisningar](../hardware-setup/
 ## Förbered filer för utskrift
 Nästa steg är att förbereda filer för utskrift. Printern använder sig av filformattet [G-code](../resources-support/gcode.md), men det krävs ingen kunskap av G-code för att skapa en utskrift. Följ dessa [anvisningar](../software-config/slicer-guide.md) för att förbereda filerna i ert valda slicerprogram, vi rekomenderar [UltiMaker Cura](https://ultimaker.com/software/ultimaker-cura/?gad_source=1&gclid=CjwKCAiAqfe8BhBwEiwAsne6gfKLc-EJP8OeQ4TaHpR3j33fKHYFaP5md25DtFuJYrUbLYeoEpXCYxoCI_cQAvD_BwE) då vi erbjuder support samt printerspecifika tillägg som kan laddas ner [här](https://www.google.com/).
 
-## Gör en fjärstyrd utskrift eller genom USB
-För att skapa en fjärstyrd utskrift, följ dessa [anvisningar](../software-config/remote.md).
+## Gör en fjärrstyrd utskrift eller genom USB
+För att skapa en fjärrstyrd utskrift, följ dessa [anvisningar](../software-config/remote.md).
 
 Vill du göra en utskrift från USB-minne följd dessa anvisningar: [anvisningar](../software-config/usb-print.md).
 
